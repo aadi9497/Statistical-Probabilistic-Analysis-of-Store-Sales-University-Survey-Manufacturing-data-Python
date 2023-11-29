@@ -1,0 +1,2 @@
+# Statistical-Probabilistic-Analysis-of-Store-Sales-University-Survey-Manufacturing-data-Python
+There are  3 case studies - Wholesale Customer Data (Store Sales), University Survey Data &amp; Manufacturing Shingles Data. The concepts of various measures of Descriptive Statistics, Probability and Probability Distributions and various measures of Estimation &amp; Hypothesis Testing are used to analyse these case studies.
